@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="my_image">my image</string>
+    <string name="sanjeev_kumar">Sanjeev Kumar</string>
+    <string name="sanjeevworld007_gmail_com">sanjeevworld007@gmail.com</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="drafts">Drafts</string>
+    <string name="subheader">Subheader</string>
+    <string name="all_mail">All Mails</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="navigation_open">Open Navigation Drawer</string>
+    <string name="navigation_close">Close Navigation Drawer</string>
+</resources>
